@@ -15,7 +15,7 @@ public class Condominio
     {
         tabella = new List<Spesa>(numero_spese);
     } // fine costruttore
-
+//salve
     // PROPERTY
     public Spesa this[int indice]
     {
